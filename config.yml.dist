@@ -1,0 +1,7 @@
+---
+username: user@gmail.com 
+password: application_specific_password
+backupdir: Z:\Websites\GoogleDriveBackUp\backups
+lastrun: 1386090132
+mysqluser: user
+mysqlpassword: password
